@@ -1,6 +1,4 @@
-<p a="center">
-  <img src="assets/banner.png" alt="Ritual Banner" width="100%">
-</p>
+![Ritual Banner](assets/banner.png)
 
 ## Overview
 
