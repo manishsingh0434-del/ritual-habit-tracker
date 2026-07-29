@@ -17,6 +17,17 @@ The idea behind Ritual came from seeing GitHub's contribution graph. After disco
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Framework:** Angular
+- **Language:** TypeScript
+- **Mobile Runtime:** Capacitor
+- **Styling:** HTML, CSS
+- **Storage:** Local Storage
+- **Platform:** Android
+
+---
+
 ## Features
 
 - ✅ Create and manage daily habits
