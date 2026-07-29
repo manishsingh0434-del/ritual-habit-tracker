@@ -60,16 +60,6 @@ ionic serve
 
 ---
 
-## Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- Capacitor
-- Android
-
----
-
 ## Project Structure
 
 ```
