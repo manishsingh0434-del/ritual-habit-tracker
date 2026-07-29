@@ -1,4 +1,4 @@
-<palign="center">
+<p a="center">
   <img src="assets/banner.png" alt="Ritual Banner" width="100%">
 </p>
 
