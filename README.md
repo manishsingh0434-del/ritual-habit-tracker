@@ -6,10 +6,6 @@
 
 > Build consistency, one day at a time.
 
-# Ritual - Habit Tracker
-
-> Build consistency, one day at a time.
-
 ## Overview
 
 Ritual is a modern habit tracking application inspired by GitHub's contribution graph. It helps users create positive daily routines, maintain streaks, and visualize their progress through an intuitive and motivating interface.
