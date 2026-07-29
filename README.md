@@ -21,6 +21,22 @@ The idea behind Ritual came from seeing GitHub's contribution graph. After disco
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home-screen.png)
+
+### 📅 Year View
+![Year View](assets/screenshots/year-view.png)
+
+### ➕ Add Habit
+![Add Habit](assets/screenshots/add-habit.png)
+
+### ⏱️ Pomodoro
+![Pomodoro](assets/screenshots/pomodoro.png)
+
+---
+
 ## Tech Stack
 
 - HTML
