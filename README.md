@@ -1,6 +1,6 @@
 <palign="center">
   <img src="assets/banner.png" alt="Ritual Banner" width="100%">
-</palign=>
+</p>
 
 ## Overview
 
