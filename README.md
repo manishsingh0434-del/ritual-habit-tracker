@@ -39,6 +39,14 @@ The idea behind Ritual came from seeing GitHub's contribution graph. After disco
 
 ---
 
+## 🚀 Installation
+
+```bash
+git clone https://github.com/manishsingh0434-del/ritual-habit-tracker.git
+cd ritual-habit-tracker
+npm install
+ionic serve
+``` 
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
