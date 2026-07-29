@@ -1,3 +1,11 @@
+<palign="center">
+  <img src="assets/banner.png" alt="Ritual Banner" width="100%">
+</palign=>
+
+# Ritual - Habit Tracker
+
+> Build consistency, one day at a time.
+
 # Ritual - Habit Tracker
 
 > Build consistency, one day at a time.
