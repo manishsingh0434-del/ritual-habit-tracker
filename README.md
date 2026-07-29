@@ -47,6 +47,18 @@ cd ritual-habit-tracker
 npm install
 ionic serve
 ``` 
+
+## 📱 Screenshots
+
+| Habits | Year View |
+|--------|-----------|
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/year.png) |
+
+| Add Habit | Focus Session |
+|-----------|---------------|
+| ![](assets/screenshots/add-habit.png) | ![](assets/screenshots/pomodoro.png) |
+
+
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
