@@ -1,5 +1,14 @@
 ![Ritual Banner](assets/banner.png)
 
+<p align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
+
 ## Overview
 
 Ritual is a modern habit tracking application inspired by GitHub's contribution graph. It helps users create positive daily routines, maintain streaks, and visualize their progress through an intuitive and motivating interface.
