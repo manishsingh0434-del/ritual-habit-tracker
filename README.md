@@ -96,16 +96,6 @@ I wanted a habit tracker that uses GitHub's contribution graph to encourage cons
 
 ---
 
-## Installation
-
-```bash
-git clone https://github.com/manishsingh0434-del/ritual-habit-tracker.git
-cd ritual-habit-tracker
-npm install
-```
-
----
-
 ## Author
 
 **Manish Singh**
