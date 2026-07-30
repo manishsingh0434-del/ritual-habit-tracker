@@ -124,6 +124,7 @@ function el(tag, attrs={}, ...children){
     if (k === "style") Object.assign(e.style, attrs[k]);
     else if (k.startsWith("on")) e.addEventListener(k.slice(2).toLowerCase(), attrs[k]);
     else if (k === "class") e.className = attrs[k];
+    else if (k === "disabled") e.disabled = !!attrs[k];
     else e.setAttribute(k, attrs[k]);
   }
   children.flat().forEach(c => { if (c==null) return; e.appendChild(typeof c==="string"||typeof c==="number" ? document.createTextNode(c) : c); });
